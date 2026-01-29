@@ -45,8 +45,16 @@ VirtualBox will show the default configuration (usually 4GB RAM). Click **Finish
 ![Review Settings](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/8.png)
 
 **8. Launch:**
-Select the new **REMnux v7** entry and click **Start**.
+Select the new **REMnux VM** entry and click **Start**.
 ![Start VM](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/9.png)
+
+Once you start your REMnux virtual machine, it will automatically log you into the REMnux environment.
+
+There is no logon screen for accessing the REMnux environment, because analysts generally use REMnux on a system to which physical access is already restricted. When you need to elevate your privileges or access the REMnux virtual appliance remotely, note the following default credentials:
+
+Username: ```remnux```
+
+Password: ```malware```
 
 **9. Boot Up:**
 The machine will boot into the desktop environment.
@@ -82,7 +90,7 @@ Select the location where your images are stored.
 Select the downloaded `.qcow2` file.
 ![Select QCOW2](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM5.png)
 
-**7. Select OS Type:** Linux / Ubuntu 20.04
+**7. Select OS Type:** Linux / Ubuntu 20.04 ()
 ![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM7.png)
 
 **8. Configure Resources:**
