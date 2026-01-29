@@ -103,3 +103,11 @@ Right-click the desktop and open a terminal.
 Type the following command:
 ```bash
 sudo remnux upgrade
+```
+
+
+## Related Resources
+
+- [REMnux Website](https://REMnux.org)
+- [REMnux Documentation](https://docs.remnux.org)
+- [Salt States Repository](https://github.com/REMnux/salt-states) – Configuration management states that define the distro
