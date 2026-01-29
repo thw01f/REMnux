@@ -90,7 +90,7 @@ Select the location where your images are stored.
 Select the downloaded `.qcow2` file.
 ![Select QCOW2](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM5.png)
 
-**7. Select OS Type:** Linux / Ubuntu 20.04 ()
+**7. Select OS Type:** Linux 
 ![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM7.png)
 
 **8. Configure Resources:**
