@@ -81,17 +81,17 @@ Select the location where your images are stored.
 **6. Select Image:**
 Select the downloaded `.qcow2` file.
 ![Select QCOW2](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM5.png)
+![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM7.png)
 
 **7. Configure Resources:**
 * **OS Type:** Linux / Ubuntu 20.04
 * **RAM:** 4096 MB (4GB)
 * **CPUs:** 2
-![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM6.png)
-![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM7.png)
 ![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM8.png)
-![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM9.png)
+
 **8. Finish:**
 Click **Finish**. The VM will boot immediately.
+![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM9.png)
 ![KVM Boot](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM10.png)
 
 ---
@@ -99,7 +99,6 @@ Click **Finish**. The VM will boot immediately.
 ## Post-Installation: Keeping REMnux Updated
 
 **1. Open Terminal:**
-Right-click the desktop and open a terminal.
 ![Upgrade](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/12.png)
 
 **2. Run Upgrade Command:**
