@@ -81,17 +81,20 @@ Select the location where your images are stored.
 **6. Select Image:**
 Select the downloaded `.qcow2` file.
 ![Select QCOW2](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM5.png)
+
+**7. Select OS Type:** Linux / Ubuntu 20.04
 ![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM7.png)
 
-**7. Configure Resources:**
-* **OS Type:** Linux / Ubuntu 20.04
+**8. Configure Resources:**
 * **RAM:** 4096 MB (4GB)
 * **CPUs:** 2
 ![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM8.png)
 
-**8. Finish:**
-Click **Finish**. The VM will boot immediately.
+**9. Finish:**
+**Name and Click Finish**. 
 ![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM9.png)
+
+**10. The VM will boot immediately.**
 ![KVM Boot](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM10.png)
 
 ---
