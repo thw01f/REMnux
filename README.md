@@ -87,10 +87,12 @@ Select the downloaded `.qcow2` file.
 * **RAM:** 4096 MB (4GB)
 * **CPUs:** 2
 ![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM6.png)
-
+![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM7.png)
+![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM8.png)
+![Final Config](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM9.png)
 **8. Finish:**
 Click **Finish**. The VM will boot immediately.
-![KVM Boot](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/12.png)
+![KVM Boot](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/KVM10.png)
 
 ---
 
@@ -98,12 +100,15 @@ Click **Finish**. The VM will boot immediately.
 
 **1. Open Terminal:**
 Right-click the desktop and open a terminal.
+![Upgrade](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/12.png)
 
 **2. Run Upgrade Command:**
+![Upgrade](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/13.png)
 Type the following command:
 ```bash
 sudo remnux upgrade
 ```
+![Upgrade](https://raw.githubusercontent.com/thw01f/REMnux/main/REMnux_pic/14.png)
 
 
 ## Related Resources
